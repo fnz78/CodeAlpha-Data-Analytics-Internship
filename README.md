@@ -2,15 +2,15 @@
 This repository contains all tasks completed during the CodeAlpha Data Analytics Internship.  
 The project demonstrates the complete data workflow:
 
-Web Scraping
+• Web Scraping
 
-Data Cleaning
+• Data Cleaning
 
-Data Visualization
+• Data Visualization
 
-Data Storytelling
+• Data Storytelling
 
-Insight Extraction
+• Insight Extraction
 
 Each task builds on the previous one to create a structured and professional data analysis pipeline.
 
@@ -23,35 +23,35 @@ Extract book data from an online bookstore website using Python.
 
 🛠 Tools Used
 
-Python
+• Python
 
-requests
+• requests
 
-BeautifulSoup
+• BeautifulSoup
 
-Pandas
+• Pandas
 
 📥 Data Collected
 
-Book Title
+• Book Title
 
-Price
+• Price
 
-Rating
+• Rating
 
-Availability
+• Availability
 
 📌 Process
 
-Sent HTTP request to the website.
+• Sent HTTP request to the website.
 
-Parsed HTML using BeautifulSoup.
+• Parsed HTML using BeautifulSoup.
 
-Extracted required elements.
+• Extracted required elements.
 
-Structured the data into a Pandas DataFrame.
+• Structured the data into a Pandas DataFrame.
 
-Saved the dataset as:
+• Saved the dataset as:
 
 books_data.csv
 ✅ Outcome
@@ -66,34 +66,34 @@ Transform raw scraped data into clean, analysis-ready format.
 
 🛠 Tools Used
 
-Python
+• Python
 
-Pandas
+• Pandas
 
 🔄 Cleaning Steps
 1️. Price Cleaning
 
-Removed currency symbols (£)
+• Removed currency symbols (£)
 
-Converted values to float
+• Converted values to float
 
 2️. Rating Conversion
 
 Converted text ratings:
 
-One → 1
-Two → 2
-Three → 3
-Four → 4
-Five → 5
+• One → 1
+• Two → 2
+• Three → 3
+• Four → 4
+• Five → 5
 
 3️. Data Type Verification
 
 Ensured:
 
-Price → float
+• Price → float
 
-Rating → integer
+• Rating → integer
 
 4️. Missing Values Check
 
@@ -117,13 +117,13 @@ Transform cleaned data into meaningful visual insights.
 
 🛠 Tools Used
 
-Python
+• Python
 
-Pandas
+• Pandas
 
-Matplotlib
+• Matplotlib
 
-Seaborn
+• Seaborn
 
 📈 Visualizations Created
 1️. Price Distribution (Histogram)
@@ -131,79 +131,61 @@ Seaborn
 Shows clustering of book prices.
 
 Insight:
-Most books are priced between £40–£60.
-Very few extreme price values observed.
+• Most books are priced between £40–£60.
+• Very few extreme price values observed.
 
 2️. Rating Distribution (Count Plot)
 
 Displays frequency of each rating level.
 
 Insight:
-Rating 3 appears most frequently.
-Very few 1-star books present.
+• Rating 3 appears most frequently.
+• Very few 1-star books present.
 
 3️. Price vs Rating (Boxplot)
 
 Shows price spread across rating categories.
 
 Insight:
-Prices overlap significantly across ratings.
-Higher rating does not necessarily mean higher price.
+• Prices overlap significantly across ratings.
+• Higher rating does not necessarily mean higher price.
 
 4️. Average Price by Rating (Bar Chart)
 
 Clear comparison of mean price per rating.
 
 Insight:
-No strong upward price trend as rating increases.
+• No strong upward price trend as rating increases.
 
 5️. Top 5 Most Expensive Books
 
 Highlights highest-priced books.
 
 Insight:
-A small subset of books dominate the higher price range.
+• A small subset of books dominate the higher price range.
 
 6️. Correlation Heatmap
 
 Analyzes numerical relationships.
 
 Insight:
-Weak correlation between price and rating.
+• Weak correlation between price and rating.
 
 📖 Final Data Story
 
 From the visual exploration:
 
-Book prices are concentrated in a mid-range cluster.
+• Book prices are concentrated in a mid-range cluster.
 
-Rating 3 is the most common rating category.
+• Rating 3 is the most common rating category.
 
-There is no strong correlation between rating and price.
+• There is no strong correlation between rating and price.
 
-Higher-rated books are not significantly more expensive.
+• Higher-rated books are not significantly more expensive.
 
-The dataset shows stable and moderate price variation.
+• The dataset shows stable and moderate price variation.
 
 Overall, pricing appears independent of rating quality in this dataset.
-
-🚀 Skills Demonstrated
-
-Web Scraping
-
-HTML Parsing
-
-Data Cleaning
-
-Data Transformation
-
-Data Visualization
-
-Exploratory Data Analysis
-
-Insight Communication
-
-Project Structuring
 
 🏁 Conclusion
 
@@ -216,5 +198,7 @@ The project reflects practical application of data analytics concepts in a struc
 👨‍💻 Author
 
 Kn Farhan nazim
+
 Data Analytics Student
+
 CodeAlpha Internship Participant
