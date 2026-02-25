@@ -40,3 +40,7 @@ top_expensive = df.sort_values(by="Price", ascending=False).head(5)
 sns.barplot(x="Price", y="Title", data=top_expensive)
 plt.title("Top 5 Most Expensive Books")
 plt.show()
+
+sns.heatmap(df.corr(numeric_only=True), annot=True)
+plt.title("Correlation Matrix")
+plt.show()
