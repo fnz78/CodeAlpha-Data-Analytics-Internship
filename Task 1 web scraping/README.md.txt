@@ -1,19 +1,20 @@
 # CodeAlpha Internship - Task 1 (Web Scraping)
 
-## Objective
+Objective
 Scrape book data from BooksToScrape website.
 
-## Tools Used
+Tools Used
 - Python
 - Requests
 - BeautifulSoup
 - Pandas
 
-## Data Collected
+Data Collected
 - Title
 - Price
 - Rating
 - Availability
 
-## Output
+ Output
+
 Saved dataset as books_data.csv
