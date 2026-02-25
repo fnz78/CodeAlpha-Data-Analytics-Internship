@@ -1,4 +1,5 @@
 # CodeAlpha-Data-Analytics-Internship
+
 This repository contains all tasks completed during the CodeAlpha Data Analytics Internship.  
 The project demonstrates the complete data workflow:
 
@@ -15,7 +16,7 @@ The project demonstrates the complete data workflow:
 Each task builds on the previous one to create a structured and professional data analysis pipeline.
 
 
-🧩 Task 1 – Web Scraping
+🧩 **Task 1 – Web Scraping**
 
 🎯 Objective
 
@@ -58,7 +59,8 @@ books_data.csv
 
 Successfully scraped structured book data ready for preprocessing and analysis.
 
-🧹 Task 2 – Data Cleaning & Preprocessing
+
+**🧹 Task 2 – Data Cleaning & Preprocessing**
 
 🎯 Objective
 
@@ -71,6 +73,7 @@ Transform raw scraped data into clean, analysis-ready format.
 • Pandas
 
 🔄 Cleaning Steps
+
 1️. Price Cleaning
 
 • Removed currency symbols (£)
@@ -109,7 +112,7 @@ cleaned_books_data.csv
 
 Dataset prepared for visualization and analysis.
 
-📊 Task 3 – Data Visualization & Storytelling
+**📊 Task 3 – Data Visualization & Storytelling**
 
 🎯 Objective
 
@@ -187,7 +190,7 @@ From the visual exploration:
 
 Overall, pricing appears independent of rating quality in this dataset.
 
-🏁 Conclusion
+**🏁 Conclusion**
 
 This internship project provided hands-on experience across the full data analytics pipeline — from raw data extraction to structured storytelling through visualization.
 
@@ -195,7 +198,7 @@ Through this project, I strengthened my skills in Python-based data analysis, im
 
 The project reflects practical application of data analytics concepts in a structured and professional workflow.
 
-👨‍💻 Author
+**👨‍💻 Author**
 
 Kn Farhan nazim
 
