@@ -1,4 +1,4 @@
-**🛠️ Tools & Technologies Used**
+** Tools & Technologies Used**
 
 • * Programming Language *: Python
 
