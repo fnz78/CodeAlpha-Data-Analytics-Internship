@@ -34,3 +34,9 @@ plt.xlabel("Rating")
 plt.ylabel("Average Price (£)")
 plt.show()
 
+
+top_expensive = df.sort_values(by="Price", ascending=False).head(5)
+
+sns.barplot(x="Price", y="Title", data=top_expensive)
+plt.title("Top 5 Most Expensive Books")
+plt.show()
