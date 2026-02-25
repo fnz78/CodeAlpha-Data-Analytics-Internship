@@ -1,7 +1,13 @@
 **🛠️ Tools & Technologies Used**
-• Programming Language: Python
-• Web Scraping: BeautifulSoup, Requests
+
+• * Programming Language *: Python
+
+• * Web Scraping *: BeautifulSoup, Requests
+
 • Data Analysis: Pandas, NumPy
+
 • Visualization: Matplotlib, Seaborn
+
 • Development Environment: Jupyter Notebook
+
 • Version Control: Git & GitHub
