@@ -22,3 +22,7 @@ plt.title("Book Rating Distribution")
 plt.xlabel("Rating")
 plt.ylabel("Count")
 plt.show()
+
+sns.boxplot(x="Rating", y="Price", data=df)
+plt.title("Price Variation by Rating")
+plt.show()
