@@ -1,0 +1,6 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+plt.rcParams["figure.figsize"] = (8,5)
+sns.set_style("whitegrid")
