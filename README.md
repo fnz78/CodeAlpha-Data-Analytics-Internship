@@ -190,6 +190,34 @@ From the visual exploration:
 
 Overall, pricing appears independent of rating quality in this dataset.
 
+
+ 📊TASK 4: Sentiment Analysis
+
+Objective: Analyze text data to determine sentiment.
+
+Key Concepts:
+
+NLP (Natural Language Processing)
+
+Text classification (Positive, Negative, Neutral)
+
+Emotion detection
+
+Public opinion analysis
+
+Applications:
+
+Amazon product reviews
+
+Social media analysis
+
+News sentiment tracking
+
+Marketing insights
+
+Product improvement strategies
+
+
 **🏁 Conclusion**
 
 This internship project provided hands-on experience across the full data analytics pipeline — from raw data extraction to structured storytelling through visualization.
