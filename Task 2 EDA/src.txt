@@ -35,9 +35,11 @@ plt.show()
 sns.countplot(x="Rating", data=df)
 plt.title("Rating Distribution")
 plt.show()
+
 sns.boxplot(x="Rating", y="Price", data=df)
 plt.title("Price vs Rating")
 plt.show()
 df["Availability"].value_counts()
 
 df.isnull().sum()
+
