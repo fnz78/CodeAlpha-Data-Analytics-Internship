@@ -16,6 +16,7 @@ Each task builds on the previous one to create a structured and professional dat
 
 
 🧩 Task 1 – Web Scraping
+
 🎯 Objective
 
 Extract book data from an online bookstore website using Python.
@@ -58,6 +59,7 @@ books_data.csv
 Successfully scraped structured book data ready for preprocessing and analysis.
 
 🧹 Task 2 – Data Cleaning & Preprocessing
+
 🎯 Objective
 
 Transform raw scraped data into clean, analysis-ready format.
@@ -69,13 +71,13 @@ Python
 Pandas
 
 🔄 Cleaning Steps
-1️⃣ Price Cleaning
+1️. Price Cleaning
 
 Removed currency symbols (£)
 
 Converted values to float
 
-2️⃣ Rating Conversion
+2️. Rating Conversion
 
 Converted text ratings:
 
@@ -84,7 +86,8 @@ Two → 2
 Three → 3
 Four → 4
 Five → 5
-3️⃣ Data Type Verification
+
+3️. Data Type Verification
 
 Ensured:
 
@@ -92,7 +95,7 @@ Price → float
 
 Rating → integer
 
-4️⃣ Missing Values Check
+4️. Missing Values Check
 
 Verified dataset completeness.
 
@@ -101,11 +104,13 @@ Verified dataset completeness.
 Saved cleaned dataset as:
 
 cleaned_books_data.csv
+
 ✅ Outcome
 
 Dataset prepared for visualization and analysis.
 
 📊 Task 3 – Data Visualization & Storytelling
+
 🎯 Objective
 
 Transform cleaned data into meaningful visual insights.
@@ -121,7 +126,7 @@ Matplotlib
 Seaborn
 
 📈 Visualizations Created
-1️⃣ Price Distribution (Histogram)
+1️. Price Distribution (Histogram)
 
 Shows clustering of book prices.
 
@@ -129,7 +134,7 @@ Insight:
 Most books are priced between £40–£60.
 Very few extreme price values observed.
 
-2️⃣ Rating Distribution (Count Plot)
+2️. Rating Distribution (Count Plot)
 
 Displays frequency of each rating level.
 
@@ -137,7 +142,7 @@ Insight:
 Rating 3 appears most frequently.
 Very few 1-star books present.
 
-3️⃣ Price vs Rating (Boxplot)
+3️. Price vs Rating (Boxplot)
 
 Shows price spread across rating categories.
 
@@ -145,21 +150,21 @@ Insight:
 Prices overlap significantly across ratings.
 Higher rating does not necessarily mean higher price.
 
-4️⃣ Average Price by Rating (Bar Chart)
+4️. Average Price by Rating (Bar Chart)
 
 Clear comparison of mean price per rating.
 
 Insight:
 No strong upward price trend as rating increases.
 
-5️⃣ Top 5 Most Expensive Books
+5️. Top 5 Most Expensive Books
 
 Highlights highest-priced books.
 
 Insight:
 A small subset of books dominate the higher price range.
 
-6️⃣ Correlation Heatmap
+6️. Correlation Heatmap
 
 Analyzes numerical relationships.
 
