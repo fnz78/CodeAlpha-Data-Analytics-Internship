@@ -19,17 +19,17 @@ Each task builds on the previous one to create a structured and professional dat
 
 ### 🛠️ Tools & Technologies Used
 
-![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)
-![BeautifulSoup](https://img.shields.io/badge/Web%20Scraping-BeautifulSoup-green)
-![Requests](https://img.shields.io/badge/Web%20Scraping-Requests-lightgrey?logo=python)
-![Pandas](https://img.shields.io/badge/Data%20Analysis-Pandas-yellow?logo=pandas)
-![NumPy](https://img.shields.io/badge/Data%20Analysis-NumPy-orange?logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-red)
-![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-teal)
-![Jupyter](https://img.shields.io/badge/Environment-Jupyter%20Notebook-orange?logo=jupyter)
-![Git](https://img.shields.io/badge/Version%20Control-Git-black?logo=git)
-![GitHub](https://img.shields.io/badge/Repository-GitHub-181717?logo=github)
+🐍 Programming Language: Python
 
+🌐 Web Scraping: BeautifulSoup • Requests
+
+📊 Data Analysis: Pandas • NumPy
+
+📈 Visualization: Matplotlib • Seaborn
+
+💻 Development Environment: Jupyter Notebook
+
+🔧 Version Control: Git • GitHub
 
 
 🧩 **Task 1 – Web Scraping**
