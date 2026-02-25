@@ -15,7 +15,7 @@ The project demonstrates the complete data workflow:
 
 Each task builds on the previous one to create a structured and professional data analysis pipeline.
 
-**Tools used for the tasks**
+
 
 ### 🛠️ Tools & Technologies Used
 
