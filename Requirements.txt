@@ -6,7 +6,7 @@
 
 • * Data Analysis *: Pandas, NumPy
 
-• * Visualization                 8: Matplotlib, Seaborn
+• * Visualization *: Matplotlib, Seaborn
 
 • Development Environment: Jupyter Notebook
 
