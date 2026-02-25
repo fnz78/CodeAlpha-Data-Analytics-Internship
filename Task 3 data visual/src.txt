@@ -10,3 +10,9 @@ df = pd.read_csv("cleaned_books_data.csv")
 df.head()
 
 df.info()
+
+sns.histplot(df["Price"], bins=8)
+plt.title("Distribution of Book Prices")
+plt.xlabel("Price (£)")
+plt.ylabel("Number of Books")
+plt.show()
