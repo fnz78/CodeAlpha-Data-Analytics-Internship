@@ -8,3 +8,5 @@ sns.set_style("whitegrid")
 df = pd.read_csv("cleaned_books_data.csv")
 
 df.head()
+
+df.info()
