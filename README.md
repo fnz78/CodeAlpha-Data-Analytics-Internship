@@ -18,11 +18,11 @@ Each task builds on the previous one to create a structured and professional dat
 
 🧩 **Task 1 – Web Scraping**
 
-🎯 Objective
+*🎯 Objective*
 
 Extract book data from an online bookstore website using Python.
 
-🛠 Tools Used
+*🛠 Tools Used*
 
 • Python
 
@@ -32,7 +32,7 @@ Extract book data from an online bookstore website using Python.
 
 • Pandas
 
-📥 Data Collected
+*📥 Data Collected*
 
 • Book Title
 
@@ -42,7 +42,7 @@ Extract book data from an online bookstore website using Python.
 
 • Availability
 
-📌 Process
+*📌 Process*
 
 • Sent HTTP request to the website.
 
@@ -62,17 +62,17 @@ Successfully scraped structured book data ready for preprocessing and analysis.
 
 **🧹 Task 2 – Data Cleaning & Preprocessing**
 
-🎯 Objective
+*🎯 Objective*
 
 Transform raw scraped data into clean, analysis-ready format.
 
-🛠 Tools Used
+*🛠 Tools Used*
 
 • Python
 
 • Pandas
 
-🔄 Cleaning Steps
+*🔄 Cleaning Steps*
 
 1️. Price Cleaning
 
@@ -102,23 +102,23 @@ Ensured:
 
 Verified dataset completeness.
 
-📁 Output
+*📁 Output*
 
 Saved cleaned dataset as:
 
 cleaned_books_data.csv
 
-✅ Outcome
+*✅ Outcome*
 
 Dataset prepared for visualization and analysis.
 
 **📊 Task 3 – Data Visualization & Storytelling**
 
-🎯 Objective
+*🎯 Objective*
 
 Transform cleaned data into meaningful visual insights.
 
-🛠 Tools Used
+*🛠 Tools Used*
 
 • Python
 
@@ -128,7 +128,7 @@ Transform cleaned data into meaningful visual insights.
 
 • Seaborn
 
-📈 Visualizations Created
+*📈 Visualizations Created*
 1️. Price Distribution (Histogram)
 
 Shows clustering of book prices.
@@ -174,7 +174,7 @@ Analyzes numerical relationships.
 Insight:
 • Weak correlation between price and rating.
 
-📖 Final Data Story
+*📖 Final Data Story*
 
 From the visual exploration:
 
@@ -191,9 +191,10 @@ From the visual exploration:
 Overall, pricing appears independent of rating quality in this dataset.
 
 
- 📊TASK 4: Sentiment Analysis
+ **📊TASK 4: Sentiment Analysis**
 
-Objective: Analyze text data to determine sentiment.
+*🎯Objective: *
+Analyze text data to determine sentiment.
 
 Key Concepts:
 
