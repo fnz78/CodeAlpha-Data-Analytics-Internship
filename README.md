@@ -194,29 +194,31 @@ Overall, pricing appears independent of rating quality in this dataset.
  **📊TASK 4: Sentiment Analysis**
 
 *🎯Objective: *
+
 Analyze text data to determine sentiment.
 
-Key Concepts:
+*Key Concepts:*
 
-NLP (Natural Language Processing)
+• NLP (Natural Language Processing)
 
-Text classification (Positive, Negative, Neutral)
+• Text classification (Positive, Negative, Neutral)
 
-Emotion detection
+• Emotion detection
 
-Public opinion analysis
+• Public opinion analysis
 
-Applications:
+*Applications:*
 
-Amazon product reviews
 
-Social media analysis
+• Amazon product reviews
 
-News sentiment tracking
+• Social media analysis
 
-Marketing insights
+• News sentiment tracking
 
-Product improvement strategies
+• Marketing insights
+
+• Product improvement strategies
 
 
 **🏁 Conclusion**
