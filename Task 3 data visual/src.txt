@@ -26,3 +26,11 @@ plt.show()
 sns.boxplot(x="Rating", y="Price", data=df)
 plt.title("Price Variation by Rating")
 plt.show()
+avg_price = df.groupby("Rating")["Price"].mean()
+
+avg_price.plot(kind="bar")
+plt.title("Average Price by Rating")
+plt.xlabel("Rating")
+plt.ylabel("Average Price (£)")
+plt.show()
+
