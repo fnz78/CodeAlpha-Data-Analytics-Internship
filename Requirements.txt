@@ -4,7 +4,7 @@
 
 • * Web Scraping *: BeautifulSoup, Requests
 
-• Data Analysis: Pandas, NumPy
+• * Data Analysis *: Pandas, NumPy
 
 • Visualization: Matplotlib, Seaborn
 
