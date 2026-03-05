@@ -5,6 +5,7 @@ The project demonstrates the complete data workflow:
 
 • Web Scraping
 
+
 • Data Cleaning
 
 • Data Visualization
