@@ -1,6 +1,5 @@
 # CodeAlpha-Data-Analytics-Internship 2026
 
-
 This repository contains all tasks completed during the CodeAlpha Data Analytics Internship.  
 The project demonstrates the complete data workflow:
 
