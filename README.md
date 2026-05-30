@@ -20,17 +20,17 @@ Each task builds on the previous one to create a structured and professional dat
 
 ### 🛠️ Tools & Technologies Used
 
-🐍 Programming Language: Python
+ Programming Language: Python
 
-🌐 Web Scraping: BeautifulSoup • Requests
+ Web Scraping: BeautifulSoup • Requests
 
-📊 Data Analysis: Pandas • NumPy
+ Data Analysis: Pandas • NumPy
 
-📈 Visualization: Matplotlib • Seaborn
+ Visualization: Matplotlib • Seaborn
 
-💻 Development Environment: Jupyter Notebook
+ Development Environment: Jupyter Notebook
 
-🔧 Version Control: Git • GitHub
+ Version Control: Git • GitHub
 
 
 🧩 **Task 1 – Web Scraping**
